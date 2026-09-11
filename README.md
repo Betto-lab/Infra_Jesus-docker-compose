@@ -215,7 +215,11 @@ docker volume ls
 docker images
 ```
 
-
-# Conclusión
-
-Con este laboratorio se logró implementar un entorno utilizando Docker Compose, integrando una API creada localmente, una base de datos PostgreSQL, variables de entorno, volúmenes y múltiples instancias de la API.
+![alt text](image.png)
+![alt text](image-1.png)
+![alt text](image-2.png)
+![alt text](image-3.png)
+![alt text](image-4.png)
+![alt text](image-5.png)
+![alt text](image-6.png)
+![alt text](image-7.png)
